@@ -1,29 +1,38 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Manh Duc
-[![Viewer](https://komarev.com/ghpvc/?username=mduc-dev&color=ff69b4)](https://github.com/mduc-dev)
+### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Manh Duc
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlnbjQyaXMxaWRyc21jZHRhOG13N2syNnM3dms2cjB3cnc4aGRsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3V2wgKkOPLPgwcXvq/giphy.gif" width="100px" height = "100px"/>
 
 ⚡️ Portfolio: https://mduc-dev.github.io/portfolio-mduc/
 
-🌐 **Connect with me**:
-- 📫 Reach me at [duc040301@gmail.com](mailto:duc040301@gmail.com)
-- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/mduc-dev)
 
 ## 🛠️ Skills
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Frameworks
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=25d9fd&color=262626)
-![](https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=25d9fd&color=262626)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Tools
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0076c6)
-![](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=androidstudio&logoColor=3ddc84&color=132e3d)
-![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=171515)
-![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=156de7)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f0502f)
-![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=156de7)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2f3139)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-ffffff?style=for-the-badge&logo=android%20studio&logoColor=3ddc84)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Most used languages
+<div align="start" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mduc-dev&layout=compact&title_color=a97bff&text_color=FFFFFF&bg_color=0d1117" height="150"/>
+</div>
+
+### **Connect with me**:
+- 📫 Reach me at [duc040301@gmail.com](mailto:duc040301@gmail.com)
+- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/mduc-dev)
 
 <!--
 **ducnguyen4301/DucNguyen4301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
