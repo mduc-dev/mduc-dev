@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
 
 ### Frameworks
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=25d9fd&color=262626)
 ![](https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=25d9fd&color=262626)
 
 ### Tools
