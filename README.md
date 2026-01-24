@@ -33,7 +33,7 @@
 
 ### **Connect with me**:
 - 📫 Reach me at [duc040301@gmail.com](mailto:duc040301@gmail.com)
-- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/mduc-dev)
+- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/mduc-engineer)
 
 <!--
 **ducnguyen4301/DucNguyen4301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
